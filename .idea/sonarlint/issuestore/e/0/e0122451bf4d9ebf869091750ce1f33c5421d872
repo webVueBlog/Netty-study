@@ -1,0 +1,14 @@
+
+‚
+java:S11923"FDefine a constant instead of duplicating this literal "body:" 4 times.(óðÀµJ$1ad41db5-a3b9-4f96-b7e9-29d4d8e0f559
+–
+java:S1450"URemove the "result" field and declare it as a local variable in the relevant methods.(üÊ„ûüÿÿÿÿJ$eb9a26d9-0ced-44bb-abc8-415d4b1d4a9b
+W
+java:S3626O"Remove this redundant jump.(ûÁÝ…J$a96840c3-80e0-4b84-93a1-7232d2187999
+k	java:S106/"+Replace this use of System.out by a logger.(–’—¸úÿÿÿÿJ$04340728-7392-461d-98cb-62a510783a40
+f	java:S1063"+Replace this use of System.out by a logger.(óðÀµJ$9cec9d8d-43f9-4302-b4c5-aa7ae9d296af
+f	java:S106;"+Replace this use of System.out by a logger.(óðÀµJ$1976ca11-d35e-45d7-8669-e195d483ffd6
+f	java:S106D"+Replace this use of System.out by a logger.(óðÀµJ$ae6fbe24-db1e-4cf3-9f62-f41565c638fa
+f	java:S106L"+Replace this use of System.out by a logger.(óðÀµJ$ff57b9be-c019-4c37-8eed-0a8bf22771a7
+f	java:S106R"+Replace this use of System.out by a logger.(éÐííJ$11ecb656-7bb6-4c29-8705-431869656f98
+e	java:S106u"+Replace this use of System.out by a logger.(ÛµàJ$11b3e816-f649-4652-919d-0c1b25274fe0
