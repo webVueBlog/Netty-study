@@ -1,0 +1,18 @@
+
+‘
+java:S1104"PMake host a static final constant or non-public and provide accessors if needed.(‰•²ÙýÿÿÿÿJ$6fe054dc-e330-4107-bddf-a468ed87fdb3
+‘
+java:S1104"PMake port a static final constant or non-public and provide accessors if needed.(¡å«ÑüÿÿÿÿJ$d1547e16-e7b3-4426-ae22-941bcb947c82
+k
+java:S1444"*Make this "public static host" field final(‰•²ÙýÿÿÿÿJ$6cef30bf-43db-49d7-95d4-bf97367e1101
+k
+java:S1444"*Make this "public static port" field final(¡å«ÑüÿÿÿÿJ$f47fceb1-266b-4df0-a59e-696df8b0b02b
+­
+java:S1130&"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ÈƒíÙüÿÿÿÿJ$0840f716-0604-4e3f-8400-582ce3863c23
+k	java:S1064"+Replace this use of System.out by a logger.(¼Ñô÷üÿÿÿÿJ$8fcbb801-604d-44f6-adc8-f9b9f3cc37fd
+|	java:S1255"<This block of commented-out lines of code should be removed.(ÚŠáÇúÿÿÿÿJ$d30fff70-1dc5-4005-a43c-bb7f6ed0560d
+¨
+java:S11308"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ÀÐáJ$7346f757-c0c7-4004-8679-1d9eec51d4f2
+X
+java:S1116;"Remove this empty statement.(ÎßäÿJ$14f82c5b-defc-4fcd-96e6-39b8d086b270
+f	java:S106>"+Replace this use of System.out by a logger.(ø§ÿ§J$dec7edbb-7a84-4384-be11-8f058c08a139

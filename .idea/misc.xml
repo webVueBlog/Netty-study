@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Netty-hello/pom.xml" />
+        <option value="$PROJECT_DIR$/Netty-unpack/pom.xml" />
+        <option value="$PROJECT_DIR$/Netty-protobuf/pom.xml" />
+        <option value="$PROJECT_DIR$/Netty-heartbeat/pom.xml" />
+        <option value="$PROJECT_DIR$/Netty-reconnect/pom.xml" />
+        <option value="$PROJECT_DIR$/Netty-httpServer/pom.xml" />
+        <option value="$PROJECT_DIR$/Netty-slidingWindow/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
