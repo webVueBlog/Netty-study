@@ -1,0 +1,11 @@
+
+”	java:S116!"TRename this field "CMD_HEART" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùá®ŠúÿÿÿÿJ$d2c2d3db-5a35-477c-9437-afa92a7b09c1
+	java:S116#"TRename this field "CMD_LOGIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´©•óJ$2d1731d5-83d9-437d-b18c-263ea6343a37
+b
+java:S1170!"!Make this final field static too.(Ùá®ŠúÿÿÿÿJ$4eb83503-3a84-473a-852b-538746e7e359
+]
+java:S1170#"!Make this final field static too.(´©•óJ$be50b8e4-2a13-497e-bd7b-19c30a06e79f
+k	java:S106)"+Replace this use of System.out by a logger.(îñšıøÿÿÿÿJ$920ee13d-8e3b-4727-91f5-db9238845a01
+f	java:S1067"+Replace this use of System.out by a logger.(âÚÌ¾J$f01b571e-774d-4d8d-8f77-e2e874c452fe
+e	java:S106D"+Replace this use of System.out by a logger.(…ÏßJ$78351884-c342-4c70-80b6-f6b328127bca
+k	java:S106V"+Replace this use of System.out by a logger.(½œ”ÕúÿÿÿÿJ$783a3662-9ba8-4261-97dd-345ecd7ed0e1
