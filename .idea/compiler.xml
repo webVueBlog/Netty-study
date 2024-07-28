@@ -21,7 +21,7 @@
       <module name="Netty-httpServer" target="1.5" />
       <module name="Netty-protobuf" target="1.8" />
       <module name="Netty-reconnect" target="1.8" />
-      <module name="Netty-slidingWindow" target="1.5" />
+      <module name="Netty-slidingWindow" target="1.8" />
       <module name="Netty-unpack" target="1.5" />
     </bytecodeTargetLevel>
   </component>
