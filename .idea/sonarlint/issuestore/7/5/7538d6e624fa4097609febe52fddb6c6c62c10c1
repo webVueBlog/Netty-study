@@ -1,7 +1,0 @@
-
-”	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(–£µ.J$296e43fb-7f61-4d01-a704-b2eff406afa8
-Œ
-java:S1450"PRemove the "f" field and declare it as a local variable in the relevant methods.(úòŞŠJ$2eaa11ab-fa56-4522-b78c-ac256632ebc9
-š
-java:S21426"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€J$e90c2736-0968-43cf-88b6-79cd7ef41d1f
-k	java:S1063"+Replace this use of System.out by a logger.(ŠíÜüÿÿÿÿJ$97077bc9-bb35-44cf-98c3-0bd51f33e18e

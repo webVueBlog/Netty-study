@@ -1,12 +1,0 @@
-
-•	java:S116"URename this field "idle_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åàýóÿÿÿÿÿJ$a22d16d5-e104-4d9b-8215-c14137455aa3
-e	java:S106"+Replace this use of System.out by a logger.(ÛµàJ$586b4f41-41e9-4f7f-8e96-167d90b1f04c
-k	java:S106-"+Replace this use of System.out by a logger.(‹ÔŒ¢úÿÿÿÿJ$f26e1df5-1900-41ae-9522-e6253cec8fb7
-k	java:S106/"+Replace this use of System.out by a logger.(ªÊ•ýÿÿÿÿJ$3e8d9f63-3471-4580-a8cf-5f87c474ee52
-W
-java:S3626L"Remove this redundant jump.(ûÁÝ…J$cfea38a7-0643-4a6a-b652-551cae20b526
-k	java:S106>"+Replace this use of System.out by a logger.(Ê¢ ©ûÿÿÿÿJ$b4d9d19c-3c14-440f-b1cf-2e7666875b68
-k	java:S106D"+Replace this use of System.out by a logger.(¾Í÷ˆýÿÿÿÿJ$8c3c4384-74b4-4c98-97cc-5ee4d4b21ffb
-k	java:S106F"+Replace this use of System.out by a logger.(á‘ðÒúÿÿÿÿJ$778c153b-87b2-4029-9328-0a3d5d5fe6fc
-f	java:S106H"+Replace this use of System.out by a logger.(ûíª¢J$4d2eb9c7-c41d-4a20-93c7-20202c358a6c
-f	java:S106K"+Replace this use of System.out by a logger.(Ø¡ÊÎJ$2d9d1450-6c50-44a6-9377-4912d021ac5c

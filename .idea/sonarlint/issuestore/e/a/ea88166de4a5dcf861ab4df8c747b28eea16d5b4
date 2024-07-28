@@ -1,14 +1,0 @@
-
-‘
-java:S1104"PMake host a static final constant or non-public and provide accessors if needed.(‰•²ÙıÿÿÿÿJ$f4cf3e73-4ee0-424e-9e7f-afa778443ab8
-‘
-java:S1104"PMake port a static final constant or non-public and provide accessors if needed.(‚Ÿø†úÿÿÿÿJ$991021a4-a0d4-472a-917d-71da37a28cc2
-k
-java:S1444"*Make this "public static host" field final(‰•²ÙıÿÿÿÿJ$dfd89f92-cf29-4193-bc0c-0d400bb2aac4
-k
-java:S1444"*Make this "public static port" field final(‚Ÿø†úÿÿÿÿJ$28ad863e-0baa-41c4-9399-5194677c62fb
-k	java:S106"+Replace this use of System.out by a logger.(¼Ñô÷üÿÿÿÿJ$01323834-c84e-4479-973f-109e15a8ae5c
-¨
-java:S1130'"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ÀĞáJ$25ef0f6e-8201-477b-8c66-3b13bb6b0064
-f	java:S106+"+Replace this use of System.out by a logger.(ø§ÿ§J$69feb2f4-8c22-4a59-a111-78c6c1a73372
-|	java:S125*"<This block of commented-out lines of code should be removed.(óØïØÿÿÿÿÿJ$cbaec5cc-9a06-4c6e-96b4-aa64a77bb6c6
